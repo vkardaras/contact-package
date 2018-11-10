@@ -1,0 +1,19 @@
+{
+    "name": "vkardaras/contact",
+    "description": "This will send email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vkardaras",
+            "email": "vasiliskardaras@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vkardaras\\Contact\\": "src/"
+        }
+    }
+}
